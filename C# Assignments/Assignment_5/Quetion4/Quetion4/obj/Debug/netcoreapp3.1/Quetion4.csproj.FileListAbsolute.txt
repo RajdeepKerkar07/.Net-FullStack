@@ -1,0 +1,14 @@
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\bin\Debug\netcoreapp3.1\Quetion4.exe
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\bin\Debug\netcoreapp3.1\Quetion4.deps.json
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\bin\Debug\netcoreapp3.1\Quetion4.runtimeconfig.json
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\bin\Debug\netcoreapp3.1\Quetion4.runtimeconfig.dev.json
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\bin\Debug\netcoreapp3.1\Quetion4.dll
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\bin\Debug\netcoreapp3.1\Quetion4.pdb
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\obj\Debug\netcoreapp3.1\Quetion4.csproj.AssemblyReference.cache
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\obj\Debug\netcoreapp3.1\Quetion4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\obj\Debug\netcoreapp3.1\Quetion4.AssemblyInfoInputs.cache
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\obj\Debug\netcoreapp3.1\Quetion4.AssemblyInfo.cs
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\obj\Debug\netcoreapp3.1\Quetion4.csproj.CoreCompileInputs.cache
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\obj\Debug\netcoreapp3.1\Quetion4.dll
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\obj\Debug\netcoreapp3.1\Quetion4.pdb
+C:\Users\RAKERKAR\source\repos\Assignment_5\Quetion4\Quetion4\obj\Debug\netcoreapp3.1\Quetion4.genruntimeconfig.cache

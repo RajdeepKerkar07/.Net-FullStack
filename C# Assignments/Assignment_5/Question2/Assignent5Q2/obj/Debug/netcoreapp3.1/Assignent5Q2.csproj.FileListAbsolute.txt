@@ -1,0 +1,14 @@
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\bin\Debug\netcoreapp3.1\Assignent5Q2.exe
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\bin\Debug\netcoreapp3.1\Assignent5Q2.deps.json
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\bin\Debug\netcoreapp3.1\Assignent5Q2.runtimeconfig.json
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\bin\Debug\netcoreapp3.1\Assignent5Q2.runtimeconfig.dev.json
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\bin\Debug\netcoreapp3.1\Assignent5Q2.dll
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\bin\Debug\netcoreapp3.1\Assignent5Q2.pdb
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\obj\Debug\netcoreapp3.1\Assignent5Q2.csproj.AssemblyReference.cache
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\obj\Debug\netcoreapp3.1\Assignent5Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\obj\Debug\netcoreapp3.1\Assignent5Q2.AssemblyInfoInputs.cache
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\obj\Debug\netcoreapp3.1\Assignent5Q2.AssemblyInfo.cs
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\obj\Debug\netcoreapp3.1\Assignent5Q2.csproj.CoreCompileInputs.cache
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\obj\Debug\netcoreapp3.1\Assignent5Q2.dll
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\obj\Debug\netcoreapp3.1\Assignent5Q2.pdb
+C:\Users\RAKERKAR\source\repos\Assignment_5\Question2\Assignent5Q2\obj\Debug\netcoreapp3.1\Assignent5Q2.genruntimeconfig.cache

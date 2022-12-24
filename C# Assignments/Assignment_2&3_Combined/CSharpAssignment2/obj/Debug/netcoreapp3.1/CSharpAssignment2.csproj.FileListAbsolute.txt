@@ -1,0 +1,14 @@
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\obj\Debug\netcoreapp3.1\CSharpAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\obj\Debug\netcoreapp3.1\CSharpAssignment2.AssemblyInfoInputs.cache
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\obj\Debug\netcoreapp3.1\CSharpAssignment2.AssemblyInfo.cs
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\obj\Debug\netcoreapp3.1\CSharpAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\bin\Debug\netcoreapp3.1\CSharpAssignment2.exe
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\bin\Debug\netcoreapp3.1\CSharpAssignment2.deps.json
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\bin\Debug\netcoreapp3.1\CSharpAssignment2.runtimeconfig.json
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\bin\Debug\netcoreapp3.1\CSharpAssignment2.runtimeconfig.dev.json
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\bin\Debug\netcoreapp3.1\CSharpAssignment2.dll
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\bin\Debug\netcoreapp3.1\CSharpAssignment2.pdb
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\obj\Debug\netcoreapp3.1\CSharpAssignment2.dll
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\obj\Debug\netcoreapp3.1\CSharpAssignment2.pdb
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\obj\Debug\netcoreapp3.1\CSharpAssignment2.genruntimeconfig.cache
+C:\Users\RAKERKAR\source\repos\CSharpAssignment2\CSharpAssignment2\obj\Debug\netcoreapp3.1\CSharpAssignment2.csproj.AssemblyReference.cache
