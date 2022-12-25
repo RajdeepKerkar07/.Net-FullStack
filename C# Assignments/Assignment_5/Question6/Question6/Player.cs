@@ -8,5 +8,11 @@ namespace Question6
     {
         public string name;
         public int runsScored;
+
+        public Player(string name, int runsScored)
+        {
+            this.name = name;
+            this.runsScored = runsScored;
+        }
     }
 }
