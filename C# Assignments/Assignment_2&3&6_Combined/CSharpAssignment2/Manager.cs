@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
+public delegate void displayManagerDetails();
+
 namespace CSharpAssignment2
 {
     public class Manager : Employee, IPrintable

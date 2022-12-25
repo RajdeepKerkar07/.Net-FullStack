@@ -22,11 +22,12 @@ namespace CSharpAssignment2
             Employee emp = new Employee(id, name, salary);
             emp.calculateSalary();
             emp.displayDetails();
-            
+
             //Class Manager object
             Manager m = new Manager(id, name, salary);
             m.calculateSalary();
-            m.displayDetails();
+            displayManagerDetails d = new displayManagerDetails(m.displayDetails);
+            d();
 
             //class MarketingExecutive object
             MarketingExecutive me = new MarketingExecutive(id, name, salary, kmTravel);
