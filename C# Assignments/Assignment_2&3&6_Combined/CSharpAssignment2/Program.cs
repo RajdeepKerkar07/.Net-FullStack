@@ -26,13 +26,17 @@ namespace CSharpAssignment2
             //Class Manager object
             Manager m = new Manager(id, name, salary);
             m.calculateSalary();
-            displayManagerDetails d = new displayManagerDetails(m.displayDetails);
-            d();
 
             //class MarketingExecutive object
             MarketingExecutive me = new MarketingExecutive(id, name, salary, kmTravel);
             me.calculateSalary();
-            me.displayDetails();
+
+
+            //Delegate Creation from assignment-6
+            displayManagerDetails d = new displayManagerDetails(m.displayDetails);
+            d += me.displayDetails;
+            d();
+
             Console.ReadKey();
         }
     }
