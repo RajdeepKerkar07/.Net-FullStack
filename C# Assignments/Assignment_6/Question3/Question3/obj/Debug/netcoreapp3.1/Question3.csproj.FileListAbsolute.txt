@@ -1,0 +1,14 @@
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.exe
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.deps.json
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.runtimeconfig.json
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.runtimeconfig.dev.json
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.dll
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\bin\Debug\netcoreapp3.1\Question3.pdb
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.csproj.AssemblyReference.cache
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.AssemblyInfoInputs.cache
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.AssemblyInfo.cs
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.csproj.CoreCompileInputs.cache
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.dll
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.pdb
+C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_6\Question3\Question3\obj\Debug\netcoreapp3.1\Question3.genruntimeconfig.cache
