@@ -1,0 +1,11 @@
+-----ICICI Bank-----
+Account number: 123456
+Name: customer 1
+Balance: Rs.50000/-
+Balance after withdrawing Rs.6000: Rs.44000/-
+Balance after depositing Rs.4000: Rs.48000/-
+-----HDFC Bank-----
+Account number: 654321
+Name: customer 2
+Balance: Rs.44000/-
+Balance after withdrawing Rs.43000: Rs.1000/-

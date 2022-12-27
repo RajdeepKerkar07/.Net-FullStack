@@ -4,7 +4,7 @@ namespace Question3
 {
     public class HDFCBank : Account
     {
-        public HDFCBank(int acNo, string cName, double bal) : base(acNo, cName, bal) { }
+        public HDFCBank() : base() { }
 
 
         public bool BalanceZero(double amount) { return false; }
