@@ -1,9 +1,30 @@
 ﻿using System;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
 
 namespace CSharpAssignment2
 {
     class Program
     {
+        //Serializing and DeSerializing from assignment-7
+        public static void SerializeObject(Object o)
+        {
+            FileStream fs = new FileStream(@"C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_2&3&6&7_Combined\output.txt", FileMode.OpenOrCreate);
+            BinaryFormatter formatter = new BinaryFormatter();
+            formatter.Serialize(fs, o);
+            fs.Close();
+        }
+
+        public static void DeserializeObject()
+        {
+            FileStream fs = new FileStream(@"C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_2&3&6&7_Combined\output.txt", FileMode.OpenOrCreate);
+            BinaryFormatter formatter = new BinaryFormatter();
+            Manager m1 = new Manager();
+            m1 = (Manager)formatter.Deserialize(fs);
+            Console.WriteLine($"-----Printing DeSerialized Manager Object-----\n{m1}");
+            fs.Close();
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Enter employee ID");
@@ -26,6 +47,10 @@ namespace CSharpAssignment2
             //Class Manager object
             Manager m = new Manager(id, name, salary);
             m.calculateSalary();
+
+            //Serializing and DeSerializing from assignment-7
+            SerializeObject(m);
+            DeserializeObject();
 
             //class MarketingExecutive object
             MarketingExecutive me = new MarketingExecutive(id, name, salary, kmTravel);

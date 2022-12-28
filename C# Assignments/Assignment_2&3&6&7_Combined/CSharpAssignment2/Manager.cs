@@ -6,6 +6,7 @@ public delegate void displayManagerDetails();
 
 namespace CSharpAssignment2
 {
+    [Serializable]
     public class Manager : Employee, IPrintable
     {
         private double petrolAllowance;
@@ -16,6 +17,7 @@ namespace CSharpAssignment2
         private double pf;
         private double tds;
 
+        public Manager() { }
         public double PETROLALLOWANCE
         {
             get { return petrolAllowance; }
@@ -74,6 +76,11 @@ namespace CSharpAssignment2
             Console.WriteLine($"Employee Salary: Rs.{SALARY}");
             Console.WriteLine($"Manager Gross Salary: Rs.{MANAGERGROSSSALARY}");
             Console.WriteLine($"Net Salary: Rs.{netSalary}");
+        }
+
+        public override string ToString()
+        {
+            return $"EMPLOYEE NUMBER: {EMPNO}, NAME: {EMPNAME}, SALARY: {SALARY}";
         }
     }
 }

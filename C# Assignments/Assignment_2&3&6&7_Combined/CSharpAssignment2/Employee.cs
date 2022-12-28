@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 
 namespace CSharpAssignment2
@@ -9,6 +11,7 @@ namespace CSharpAssignment2
     {
         void displayDetails();
     }
+    [Serializable]
     public class Employee : IPrintable
     {
         private int empNo;

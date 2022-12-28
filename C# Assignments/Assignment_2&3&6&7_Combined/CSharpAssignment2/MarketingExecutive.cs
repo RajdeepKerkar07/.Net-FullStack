@@ -4,6 +4,7 @@ using System.Text;
 
 namespace CSharpAssignment2
 {
+    [Serializable]
     public class MarketingExecutive : Employee, IPrintable
     {
         private double kmTravel;
