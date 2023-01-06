@@ -25,7 +25,9 @@ namespace CSharpAssignment2
         private double netSalary;
         private double grossSalary;
 
-        public Employee() { }
+        public Employee() {
+            //this.EMPNAME = "Employee 1";
+        }
 
         public int EMPNO { get { return empNo; }
             set {

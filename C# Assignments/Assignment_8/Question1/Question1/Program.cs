@@ -27,6 +27,14 @@ namespace Question1
             parameters[0] = "2";
             parameters[1] = "5";
 
+            Console.WriteLine($"Type: {exampleType}");
+            MethodInfo[] methods = exampleType.GetMethods();
+            Console.WriteLine("-----Methods Info-----");
+            foreach(MethodInfo method in methods)
+            {
+                Console.WriteLine(method.ReturnType.Name + "  "+ method.Name);
+            }
+
             int res = (int)addNum.Invoke(exampleInstance, parameters);
             Console.WriteLine($"Result = {res}");
         }
