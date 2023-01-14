@@ -1,0 +1,12 @@
+﻿
+@model IEnumerable<Day2Assignment.Models.Product>
+<h2>Product list as on: @DateTime.Now.ToString()</h2>
+@{
+    foreach (var p in Model)
+    {
+        <h4>Product Id: @p.ProductId</h4>
+        <h5>Product Name: @p.ProductName</h5>
+        <h5>Price: @p.Price</h5>
+        <hr />
+    }
+}
