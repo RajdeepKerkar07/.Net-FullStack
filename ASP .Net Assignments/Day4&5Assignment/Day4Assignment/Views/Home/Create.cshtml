@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+@model Account
+<h1>Create</h1>
+@using (Html.BeginForm("CreateAccount", "Home"))
+{
+    @Html.ValidationSummary("Errors in account creation")
+<p>
+    @Html.ValidationMessageFor(a => a.AccountNumber)
+    Account Number: @Html.TextBoxFor(a => a.AccountNumber)
+</p>
+
+<p>
+    @Html.ValidationMessageFor(a => a.Name)
+    Name: @Html.TextBoxFor(a => a.Name)
+</p>
+
+<p>
+    @Html.ValidationMessageFor(a => a.CurrentBalance)
+    Current Balance: @Html.TextBoxFor(a => a.CurrentBalance)
+</p>
+
+    <input type="submit" value="Create Account" />
+}

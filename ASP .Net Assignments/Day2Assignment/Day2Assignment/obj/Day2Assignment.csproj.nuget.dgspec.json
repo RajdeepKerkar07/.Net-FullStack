@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RAKERKAR\\source\\repos\\Day2Assignment\\Day2Assignment\\Day2Assignment.csproj": {}
+    "C:\\Users\\RAKERKAR\\.Net-FullStack\\ASP .Net Assignments\\Day2Assignment\\Day2Assignment\\Day2Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RAKERKAR\\source\\repos\\Day2Assignment\\Day2Assignment\\Day2Assignment.csproj": {
+    "C:\\Users\\RAKERKAR\\.Net-FullStack\\ASP .Net Assignments\\Day2Assignment\\Day2Assignment\\Day2Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RAKERKAR\\source\\repos\\Day2Assignment\\Day2Assignment\\Day2Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\RAKERKAR\\.Net-FullStack\\ASP .Net Assignments\\Day2Assignment\\Day2Assignment\\Day2Assignment.csproj",
         "projectName": "Day2Assignment",
-        "projectPath": "C:\\Users\\RAKERKAR\\source\\repos\\Day2Assignment\\Day2Assignment\\Day2Assignment.csproj",
+        "projectPath": "C:\\Users\\RAKERKAR\\.Net-FullStack\\ASP .Net Assignments\\Day2Assignment\\Day2Assignment\\Day2Assignment.csproj",
         "packagesPath": "C:\\Users\\RAKERKAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RAKERKAR\\source\\repos\\Day2Assignment\\Day2Assignment\\obj\\",
+        "outputPath": "C:\\Users\\RAKERKAR\\.Net-FullStack\\ASP .Net Assignments\\Day2Assignment\\Day2Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
